@@ -1,1 +1,8 @@
-print("X")
+# tema hileras
+message = input("digite lo que quiera: ")
+
+print(message)
+
+# len encontrar cantidad de caracteres que tiene una hilera
+
+print(len(message))
